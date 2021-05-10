@@ -12,7 +12,7 @@
     "chart.js": "^2.8.0",
     "core-js": "^2.6.5",
     "hchs-vue-charts": "^1.2.8",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "vue": "^2.6.10",
     "vue-filereader": "^0.1.1",
